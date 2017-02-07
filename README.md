@@ -4,7 +4,6 @@
 - [Free JavaScript Books](https://medium.com/web-development-zone/free-javascript-books-8383ff79576a#.4iqn72x2r)
 - [superherojs -  A collection of the best articles, videos, and presentations on helping to maintain a large JavaScript code base.] (http://superherojs.com/)
 - [Les projets les plus en vogues sur Github en 2016 (Javascript)] (https://risingstars2016.js.org/)
-	
 	###Framework
 	- [Inferno] (https://infernojs.org/)
 	- [Getting Started with Angular 2] (https://school.scotch.io/getting-started-with-angular-2)
@@ -15,7 +14,6 @@
 
 ##CSS
 - [Snippets] (https://css-tricks.com/snippets/css/)
-
 	###Flexbox
 	- [How FlexBox works] (https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.gqalflo5i)
 	
@@ -24,9 +22,7 @@
 	- [SMACSS] (https://smacss.com/)
 
 	###CSS3
-	
-		####Grid
-		- [CSS3 Grid Layout] (https://www.alsacreations.com/article/lire/1388-css3-grid-layout.html)
+	- [CSS3 Grid Layout] (https://www.alsacreations.com/article/lire/1388-css3-grid-layout.html)
 	
 	###Skills
 	- [CSS-Protips: 16 useful tips to help take your CSS skills to Pro] (https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
@@ -38,7 +34,6 @@
 	- [Hack CSS] (http://browserstrangeness.bitbucket.org/css_hacks.html#webkit)
 
 ##SASS
-
 	###Compass
 	- [Compass CSS3] (http://compass-style.org/reference/compass/css3/)
 
