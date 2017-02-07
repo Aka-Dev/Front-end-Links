@@ -4,7 +4,7 @@
 - [Free JavaScript Books](https://medium.com/web-development-zone/free-javascript-books-8383ff79576a#.4iqn72x2r)
 - [superherojs -  A collection of the best articles, videos, and presentations on helping to maintain a large JavaScript code base.] (http://superherojs.com/)
 - [Les projets les plus en vogues sur Github en 2016 (Javascript)] (https://risingstars2016.js.org/)
-	###Framework
+	###Frameworks
 	- [Inferno] (https://infernojs.org/)
 	- [Getting Started with Angular 2] (https://school.scotch.io/getting-started-with-angular-2)
 
@@ -34,15 +34,10 @@
 	- [Hack CSS] (http://browserstrangeness.bitbucket.org/css_hacks.html#webkit)
 
 ##SASS
-	###Compass
-	- [Compass CSS3] (http://compass-style.org/reference/compass/css3/)
-
-	###Mixins
-	- [A simple and lightweight mixin library for Sass.] (http://bourbon.io/)
-	- [Border Radius Sass Mixin] (http://www.himpfen.com/border-radius-sass-mixin/)
-	- [11 Mixin Libraries For Sass Designers Should Get] (http://www.hongkiat.com/blog/mixin-library-for-sass/)
-	- [8 Sass mixins you must have in your toolbox] (http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
-
-	##Web Performance
-	- [Web Performance For Dummies] (http://m.alphasights.stfi.re/web-performance-for-dummies-cc0a888cef2b?sf=dpnvklr#.u9m16jz8g)
-	- [How to radically improve your website performance (Part 1)] (https://hackernoon.com/how-to-radically-improve-your-website-performance-part-1-c728f4e5b08f#.eqf01qhsd)
+- [Compass CSS3] (http://compass-style.org/reference/compass/css3/)
+- [A simple and lightweight mixin library for Sass.] (http://bourbon.io/)
+- [Border Radius Sass Mixin] (http://www.himpfen.com/border-radius-sass-mixin/)
+- [11 Mixin Libraries For Sass Designers Should Get] (http://www.hongkiat.com/blog/mixin-library-for-sass/)
+- [8 Sass mixins you must have in your toolbox] (http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
+- [Web Performance For Dummies] (http://m.alphasights.stfi.re/web-performance-for-dummies-cc0a888cef2b?sf=dpnvklr#.u9m16jz8g)
+- [How to radically improve your website performance (Part 1)] (https://hackernoon.com/how-to-radically-improve-your-website-performance-part-1-c728f4e5b08f#.eqf01qhsd)
