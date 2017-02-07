@@ -34,14 +34,14 @@
 	- [Hack CSS] (http://browserstrangeness.bitbucket.org/css_hacks.html#webkit)
 
 ##Scss
-	###Compass
-	- [Compass CSS3] (http://compass-style.org/reference/compass/css3/)
+###Compass
+- [Compass CSS3] (http://compass-style.org/reference/compass/css3/)
 
-	###Mixins
-	- [A simple and lightweight mixin library for Sass.] (http://bourbon.io/)
-	- [Border Radius Sass Mixin] (http://www.himpfen.com/border-radius-sass-mixin/)
-	- [11 Mixin Libraries For Sass Designers Should Get] (http://www.hongkiat.com/blog/mixin-library-for-sass/)
-	- [8 Sass mixins you must have in your toolbox] (http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
+###Mixins
+- [A simple and lightweight mixin library for Sass.] (http://bourbon.io/)
+- [Border Radius Sass Mixin] (http://www.himpfen.com/border-radius-sass-mixin/)
+- [11 Mixin Libraries For Sass Designers Should Get] (http://www.hongkiat.com/blog/mixin-library-for-sass/)
+- [8 Sass mixins you must have in your toolbox] (http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
 
 ##Web Performance
 - [Web Performance For Dummies] (http://m.alphasights.stfi.re/web-performance-for-dummies-cc0a888cef2b?sf=dpnvklr#.u9m16jz8g)
