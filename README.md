@@ -16,6 +16,7 @@
 - [Snippets] (https://css-tricks.com/snippets/css/)
 	###Grid
 	- [CSS Grid Layout Terminology, Explained] (https://bitsofco.de/css-grid-terminology/)
+	
 	###Flexbox
 	- [How FlexBox works] (https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.gqalflo5i)
 	
