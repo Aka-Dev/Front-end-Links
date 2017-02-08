@@ -4,6 +4,7 @@
 - [Free JavaScript Books](https://medium.com/web-development-zone/free-javascript-books-8383ff79576a#.4iqn72x2r)
 - [superherojs -  A collection of the best articles, videos, and presentations on helping to maintain a large JavaScript code base.] (http://superherojs.com/)
 - [Les projets les plus en vogues sur Github en 2016 (Javascript)] (https://risingstars2016.js.org/)
+- [Javascript Tooling - The Evolution and Future of JS & Front-end Build Tools] (http://blog.qmo.stfi.re/javascript-tooling-the-evolution-and-future-of-js-front-end-build-tools/?sf=bppejnz#aa)	
 	###Frameworks
 	- [Inferno] (https://infernojs.org/)
 	- [Getting Started with Angular 2] (https://school.scotch.io/getting-started-with-angular-2)
